@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#1e293b"/>
+  <!-- Graduation / Book stylized emblem -->
+  <g transform="translate(106, 110)">
+    <!-- People / Growth heads -->
+    <circle cx="85" cy="45" r="28" fill="#10b981"/>
+    <circle cx="215" cy="45" r="28" fill="#0284c7"/>
+    <!-- Swooshing leaves/hands -->
+    <path d="M40 100 C60 70, 110 70, 130 100 C110 120, 60 120, 40 100 Z" fill="#34d399"/>
+    <path d="M170 100 C190 70, 240 70, 260 100 C240 120, 190 120, 170 100 Z" fill="#38bdf8"/>
+    <!-- Open Book Pages -->
+    <path d="M150 145 C110 135, 40 145, 10 165 L10 260 C40 240, 110 230, 150 245 Z" fill="#2563eb"/>
+    <path d="M150 145 C190 135, 260 145, 290 165 L290 260 C260 240, 190 230, 150 245 Z" fill="#0284c7"/>
+    <path d="M150 155 L150 270" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

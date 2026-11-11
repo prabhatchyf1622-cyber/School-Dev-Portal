@@ -1,0 +1,6 @@
+{
+  "name": "SchoolDev Portal - School Operating System",
+  "description": "Unified digital school management and operating system for students, teachers, parents, and school administration with complete academic, financial, communication, and public portal features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
