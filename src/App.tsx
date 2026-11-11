@@ -175,7 +175,7 @@ const AppContent: React.FC = () => {
         <Sidebar />
 
         {/* Main Viewport Content - scaled for phone, tablet, laptop, desktop */}
-        <main className="flex-1 p-3 sm:p-5 lg:p-8 pb-24 sm:pb-8 overflow-y-auto max-w-7xl mx-auto w-full">
+        <main className="flex-1 p-3.5 sm:p-6 lg:p-8 pb-24 sm:pb-10 overflow-y-auto max-w-7xl mx-auto w-full scroll-smooth transition-all duration-150">
           {renderActiveTab()}
         </main>
       </div>
